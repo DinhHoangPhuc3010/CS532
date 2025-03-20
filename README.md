@@ -19,7 +19,4 @@
 | 1 | 23521704  | Đinh Hoàng Phúc |Nhóm trưởng| https://github.com/TuTTC | 23521193@gm.uit.edu.vn |
 | 2 | 23521821  |  |Thành viên|   |     |
 
-## ĐỒ ÁN
-<h2 align="center"><b>Jewelry Store Management Software</b></h>
-# CS532
-# Chủ Đề : Mã Hóa & Giải Mã
+## Chủ Đề : Mã Hóa & Giải Mã (AES - RSA)
