@@ -17,6 +17,6 @@
 |STT| MSSV      | Họ và Tên       |Chức Vụ    | Github                                                  | Email                   |
 |---|:---------:| ---------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1 | 23521704  | Đinh Hoàng Phúc |Nhóm trưởng| https://github.com/DinhHoangPhuc3010 | 23521193@gm.uit.edu.vn |
-| 2 | 22521611 | Trần Khoa Tuấn |Thành viên| https://github.com/KtuanfromUIT | 22521611 | 
+| 2 | 22521611 | Trần Khoa Tuấn |Thành viên| https://github.com/KtuanfromUIT | 22521611@gm.uit.edu.vn | 
 
 ## Chủ Đề : Mã Hóa & Giải Mã (AES - RSA)
