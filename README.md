@@ -10,7 +10,7 @@
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** CẤU TRÚC DỮ LIỆU & GIẢI THUẬT NÂNG CAO
 * **Mã môn học:** CS532
-* **Mã lớp:** CS532.P22
+* **Mã lớp:** CS532.P21
 * **Giảng viên**: Nguyễn Thanh Sơn
 
 ## THÀNH VIÊN NHÓM
